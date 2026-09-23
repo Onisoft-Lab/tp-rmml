@@ -1,0 +1,95 @@
+==== Documents ==== 
+
+Shape: (426, 9) 
+
+NA:
+id_document           0
+isbn                  0
+titre                 0
+auteur                0
+genre                 0
+support               0
+annee_publication    14
+code_site             0
+prix_achat            9
+dtype: int64
+
+==== Emprunts ==== 
+
+Shape: (5215, 7) 
+
+NA:
+id_emprunt              0
+id_document             0
+id_adherent             0
+code_site               0
+date_emprunt            0
+date_retour_prevue      0
+date_retour_reelle    179
+dtype: int64
+
+
+==== Les 10 documents les plus chers ====
+
+     id_document           isbn  ... code_site prix_achat
+250          200  9783118448068  ...   MED-ROU      44.55
+222          176  9787835462674  ...   MED-ROU      44.50
+420          243  9786107080689  ...   MED-SEC      44.50
+36            58  9788001526225  ...   MED-LIL      44.31
+331          297  9781188485227  ...   MED-SEC      44.27
+396          204  9789567561797  ...   MED-ARM      44.14
+177          347  9784964104089  ...   MED-ARM      44.13
+125          173  9782732927501  ...   MED-SEC      44.13
+298          240  9786592154245  ...   MED-LIL      44.06
+285           64  9788980119160  ...   MED-ARM      43.99
+
+[10 rows x 9 columns]
+
+==== Le nombre de documents par genre ====
+
+genre
+Poesie            72
+BD                61
+Essai             54
+Jeunesse          53
+Roman             52
+Documentaire      45
+Policier          43
+Manga             41
+ BD                1
+ Documentaire      1
+ Jeunesse          1
+ Policier          1
+ Roman             1
+dtype: int64
+
+==== Fusion des DataFrames ====
+
+(5287, 22)
+id_emprunt              0
+id_document             0
+id_adherent             0
+code_site_x             0
+date_emprunt            0
+date_retour_prevue      0
+date_retour_reelle    181
+isbn                   23
+titre                  23
+auteur                 23
+genre                  23
+support                23
+annee_publication     197
+code_site_y            23
+prix_achat            137
+nom                     0
+prenom                  0
+code_postal           279
+tranche_age             0
+date_inscription        0
+code_site               0
+abonnement_actif        0
+dtype: int64
+
+==== Nombre de lignes de df_complet sans document correspondant ====
+
+23

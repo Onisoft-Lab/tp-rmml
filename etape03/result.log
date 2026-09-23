@@ -1,0 +1,132 @@
+====================[ DOCUMENTS ]====================
+
+==== Doublons ====
+Nombre: 6
+
+     id_document           isbn  ... code_site prix_achat
+174          114  9783764439032  ...   MED-ARM      39.46
+290           36  9783549709526  ...   MED-LIL      31.18
+294          400  9788681525644  ...   MED-VIL      40.73
+
+[3 rows x 9 columns]
+
+==== annee_publication vide ====
+Nombre: 14
+
+    id_document           isbn  ... code_site prix_achat
+23          180  9782376824172  ...   MED-SEC      19.80
+86           45  9783705045627  ...   MED-TOU      37.58
+88          296  9789227392385  ...   MED-VIL      25.77
+
+[3 rows x 9 columns]
+
+==== annee_publication > 2026 ====
+Nombre: 4
+
+     id_document           isbn  ... code_site prix_achat
+1            104  9787311454344  ...   MED-ROU       9.52
+93            90  9783864806395  ...   MED-ARM      30.40
+185          259  9785667552469  ...   MED-VIL       9.10
+
+[3 rows x 9 columns]
+
+==== prix_achat vide ====
+Nombre: 9
+
+     id_document           isbn  ... code_site prix_achat
+39           123  9787850213628  ...   MED-SEC        NaN
+189           77  9786449160103  ...   MED-LIL        NaN
+247          293  9782406076621  ...   MED-LIL        NaN
+
+[3 rows x 9 columns]
+
+==== Auteur en majuscules ====
+Nombre: 7
+
+     id_document           isbn  ... code_site prix_achat
+8            161  9785746469631  ...   MED-LIL       8.67
+21           295  9784820753883  ...   MED-LIL      41.55
+146          155  9789368326218  ...   MED-TOU      29.76
+
+[3 rows x 9 columns]
+
+==== Genre avec espaces parasites ====
+Nombre: 5
+
+     id_document           isbn  ... code_site prix_achat
+11           341  9786999443467  ...   MED-VIL      42.93
+37           212  9785415059846  ...   MED-ARM      18.28
+154          170  9782992164649  ...   MED-TOU      10.19
+
+[3 rows x 9 columns]
+
+====================[ ADHERENTS ]====================
+
+==== Code postal vide ====
+Nombre: 11
+
+     id_adherent     nom  prenom  ...  date_inscription code_site abonnement_actif
+55            56  Renard   Rayan  ...        2023-11-07   MED-LIL              oui
+73            74  Masson  Nathan  ...        2024-03-15   MED-ARM              oui
+112          113  Guerin   Sofia  ...        2024-09-07   MED-VIL              oui
+
+[3 rows x 8 columns]
+
+==== Tranche d'âge 'inconnu' ====
+Nombre: 6
+
+    id_adherent      nom  prenom  ...  date_inscription code_site abonnement_actif
+5             6   Guerin   Chloe  ...        2023-02-14   MED-SEC              oui
+30           31  Mercier  Louise  ...        2023-06-20   MED-LIL              oui
+33           34   Renard     Zoe  ...        24/01/2023   MED-SEC              oui
+
+[3 rows x 8 columns]
+
+==== Dates JJ/MM/AAAA ====
+Nombre: 5
+
+     id_adherent      nom  prenom  ...  date_inscription code_site abonnement_actif
+33            34   Renard     Zoe  ...        24/01/2023   MED-SEC              oui
+140          141   Dubois   Sacha  ...        26/05/2023   MED-ROU              oui
+148          149  Lefevre  Nathan  ...        23/05/2025   MED-LIL              oui
+
+[3 rows x 8 columns]
+
+====================[ EMPRUNTS ]====================
+(Emprunts en cours, cas normal : 179)
+
+==== Doublons ====
+Nombre: 15
+
+     id_emprunt  id_document  ...  date_retour_prevue date_retour_reelle
+1127    E100148          257  ...          2025-10-07         2025-10-06
+1280    E105139          297  ...          2026-09-26         2026-09-14
+1573    E103156          198  ...          2025-12-03         2025-12-05
+
+[3 rows x 7 columns]
+
+==== id_document inexistant ====
+Nombre: 23
+
+    id_emprunt  id_document  ...  date_retour_prevue date_retour_reelle
+447    E104753        99999  ...          2025-11-12         2025-11-11
+631    E100319        99999  ...          2026-04-26         2026-04-13
+895    E104029        99999  ...          2025-11-12         2025-11-09
+
+[3 rows x 7 columns]
+
+==== Chronologie impossible ====
+Nombre: 12
+
+    id_emprunt  id_document  ...  date_retour_prevue date_retour_reelle
+694    E101767          411  ...          2025-11-20         2025-10-28
+708    E103827          343  ...          2026-04-03         2026-03-19
+807    E103166          214  ...          2025-12-01         2025-11-15
+
+[3 rows x 7 columns]
+
+====================[ EXPORTS ]====================
+Anomalies recensées : 12 (attendu : 12)
+Genres distincts après nettoyage : 8 (attendu : 8)
+Emprunts propres : 5165 (attendu : entre 5150 et 5215)
+Rapport écrit dans /Users/onivoid/DataAnalyst/tp-rmml/sorties/rapport_qualite.md

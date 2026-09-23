@@ -1,0 +1,421 @@
+id_document,isbn,titre,auteur,genre,support,annee_publication,code_site,prix_achat
+158,9789774321927,Le dernier train I,Delphine De Vigan,BD,Livre,1998.0,MED-LIL,24.84
+104,9787311454344,Le fil rouge,Emmanuel Lepage,Poesie,Livre numerique,,MED-ROU,9.52
+62,9788059196956,Ceux qui restent,Pierre Lemaitre,Roman,Livre,1999.0,MED-TOU,15.53
+152,9787039811397,Sous les branches,Emmanuel Lepage,Essai,Livre,2017.0,MED-TOU,39.25
+11,9789866080176,Rivages II,Herve Le Tellier,Essai,Livre,2011.0,MED-LIL,13.19
+66,9781922746587,Rivages volume 3,Jean-Paul Dubois,Documentaire,Livre,2018.0,MED-VIL,25.57
+84,9785472282227,Les hautes collines tome 2,Leila Slimani,BD,Livre,2011.0,MED-ROU,35.87
+260,9781908981620,Le bruit du temps,Riad Sattouf,Documentaire,Livre,2012.0,MED-TOU,11.16
+161,9785746469631,Les jours heureux,Virginie Despentes,Documentaire,Livre,2020.0,MED-LIL,8.67
+109,9787468332405,Le dernier train volume 3,Emmanuel Lepage,Poesie,Livre numerique,2005.0,MED-VIL,26.27
+189,9788249552852,La maison vide volume 3,Herve Le Tellier,BD,Livre,2014.0,MED-ROU,35.37
+341,9786999443467,Les corps flottants,Alice Zeniter,BD,Livre,2009.0,MED-VIL,42.93
+147,9785235728542,La part du fleuve II,Jean-Paul Dubois,Roman,Livre,2006.0,MED-LIL,34.73
+394,9788085911582,Terres promises,Pierre Lemaitre,Documentaire,DVD,2022.0,MED-LIL,35.37
+403,9786550070565,L'atelier des jours I,Leila Slimani,Documentaire,Livre,2011.0,MED-ARM,21.18
+142,9789709024893,Le chant des vivants tome 2,Emmanuel Lepage,Poesie,Livre,2004.0,MED-TOU,25.21
+207,9787723310700,Le bruit du temps,Marjane Satrapi,Essai,Livre,2001.0,MED-TOU,31.76
+40,9782763248246,Comme un lundi II,Jean-Paul Dubois,Roman,Livre,2018.0,MED-ARM,33.24
+219,9782283470907,Sous les branches,Leila Slimani,Essai,CD,2023.0,MED-ROU,14.01
+145,9785384270331,Les hautes collines I,Jean-Paul Dubois,Roman,CD,2018.0,MED-ARM,7.06
+73,9783161499727,Terres promises I,Emmanuel Lepage,Policier,Livre,2003.0,MED-SEC,22.61
+295,9784820753883,Les corps flottants,Zep,Manga,Livre,2010.0,MED-LIL,41.55
+289,9789960665230,Reparer les vivants I,Leila Slimani,Essai,Livre,2014.0,MED-LIL,15.48
+180,9782376824172,L'atelier des jours volume 3,Fred Vargas,Documentaire,Livre numerique,,MED-SEC,19.8
+186,9787481547040,Le bruit du temps,Marjane Satrapi,Policier,Livre numerique,1998.0,MED-ROU,20.31
+228,9784552778580,Terres promises volume 3,Riad Sattouf,Jeunesse,Livre,2024.0,MED-VIL,29.78
+416,9789753631653,Le bruit du temps II,Catherine Meurisse,Jeunesse,Livre,2013.0,MED-LIL,34.97
+325,9789153143315,Les jours heureux volume 3,Fred Vargas,Essai,Livre,2002.0,MED-ROU,17.45
+61,9786760693957,Rivages,Delphine De Vigan,Poesie,DVD,2013.0,MED-VIL,15.59
+340,9782889238904,Nord perdu I,Leila Slimani,Documentaire,CD,2021.0,MED-SEC,22.34
+378,9782180242503,L'atelier des jours,Alice Zeniter,Policier,DVD,2008.0,MED-SEC,43.93
+208,9787957377071,Nord perdu,Pierre Lemaitre,BD,Livre,2022.0,MED-VIL,17.12
+2,9785716095802,Le chant des vivants,Maylis De Kerangal,Essai,CD,2001.0,MED-TOU,13.8
+206,9783535027792,L'anomalie volume 3,Catherine Meurisse,BD,Livre,2020.0,MED-LIL,14.19
+285,9787918739538,L'atelier des jours volume 3,Catherine Meurisse,BD,Livre,2007.0,MED-TOU,19.65
+417,9785653574079,Rivages,Delphine De Vigan,Documentaire,CD,2007.0,MED-SEC,35.63
+58,9788001526225,Terres promises II,Fred Vargas,Documentaire,DVD,2023.0,MED-LIL,44.31
+212,9785415059846,Ceux qui restent,Riad Sattouf,Jeunesse,CD,1999.0,MED-ARM,18.28
+27,9786415345180,L'anomalie tome 2,Fred Vargas,Roman,Livre,2003.0,MED-TOU,21.87
+123,9787850213628,Les corps flottants II,Marjane Satrapi,Poesie,CD,2017.0,MED-SEC,
+406,9782035007608,Les jours heureux II,Riad Sattouf,Poesie,Livre numerique,2024.0,MED-LIL,8.3
+114,9783764439032,Mille soleils,Emmanuel Lepage,Documentaire,Livre numerique,2001.0,MED-ARM,39.46
+55,9783219168164,L'atelier des jours,Virginie Despentes,Poesie,CD,2025.0,MED-TOU,7.87
+258,9788135119905,Terres promises tome 2,Fred Vargas,Poesie,Livre numerique,2007.0,MED-SEC,40.0
+184,9781107533914,Le bruit du temps I,Pierre Lemaitre,Poesie,Livre,1999.0,MED-ROU,9.8
+30,9786375484724,Une saison douce,Herve Le Tellier,Poesie,Livre,2019.0,MED-SEC,33.75
+405,9789034182505,Sous les branches tome 2,Pierre Lemaitre,Roman,Livre,1998.0,MED-ROU,27.84
+245,9783055974546,Le dernier train,Leila Slimani,BD,CD,2013.0,MED-VIL,16.19
+52,9781914293498,Une saison douce,Jean-Paul Dubois,BD,Livre,2010.0,MED-TOU,18.49
+146,9782732750163,Nord perdu,Marjane Satrapi,Poesie,Livre,2013.0,MED-TOU,10.15
+318,9784643872430,Reparer les vivants,Zep,Jeunesse,CD,2007.0,MED-SEC,28.83
+31,9784933594200,Le chant des vivants tome 2,Herve Le Tellier,Manga,Livre,2007.0,MED-ARM,41.17
+294,9782902605170,Le fil rouge I,Zep,Policier,Livre,2023.0,MED-ARM,13.1
+41,9786579318018,Reparer les vivants,Alice Zeniter,Jeunesse,Livre,2000.0,MED-SEC,34.71
+37,9782363643283,Rivages,Riad Sattouf,Roman,CD,2008.0,MED-ROU,24.09
+342,9784751631383,Rivages,Herve Le Tellier,BD,Livre numerique,2021.0,MED-VIL,18.79
+233,9788201328080,Mille soleils,Alice Zeniter,Policier,Livre numerique,2023.0,MED-VIL,20.46
+107,9782297185914,Terres promises volume 3,Marjane Satrapi,Documentaire,Livre,2005.0,MED-ROU,38.99
+65,9786753577956,Les corps flottants tome 2,Pierre Lemaitre,Policier,DVD,2019.0,MED-ROU,35.49
+308,9787601369076,Le bruit du temps,Fred Vargas,Roman,Livre,2002.0,MED-ROU,27.98
+374,9781135956494,L'anomalie volume 3,Pierre Lemaitre,Essai,Livre,2006.0,MED-VIL,29.92
+254,9781728210718,Mille soleils,Emmanuel Lepage,Jeunesse,DVD,2020.0,MED-ARM,26.14
+359,9782046250654,Reparer les vivants I,Riad Sattouf,BD,Livre,2006.0,MED-LIL,5.96
+234,9789426735152,Rivages tome 2,Zep,Policier,Livre,2016.0,MED-ARM,23.61
+419,9789366226797,Ceux qui restent,Marjane Satrapi,Policier,Livre numerique,2013.0,MED-ROU,30.75
+33,9788111606156,Reparer les vivants tome 2,Maylis De Kerangal,Manga,DVD,2017.0,MED-ROU,19.56
+185,9784851527813,La maison vide I,Nicolas Mathieu,Jeunesse,Livre numerique,2000.0,MED-LIL,37.41
+230,9786797809054,Les jours heureux volume 3,Jean-Paul Dubois,Policier,Livre,2022.0,MED-ROU,43.47
+83,9789410419623,Ceux qui restent,Leila Slimani,Poesie,CD,2007.0,MED-VIL,32.77
+371,9781453947404,Les hautes collines tome 2,Pierre Lemaitre,Essai,DVD,2013.0,MED-TOU,13.37
+63,9787012636212,Mille soleils tome 2,Leila Slimani,Roman,Livre numerique,2014.0,MED-VIL,39.59
+302,9785705456224,L'anomalie,Zep,Jeunesse,Livre numerique,2015.0,MED-ROU,12.96
+223,9784028620929,Rivages,Herve Le Tellier,Roman,CD,2011.0,MED-TOU,21.26
+290,9783538089288,Les corps flottants,Virginie Despentes,BD,CD,2013.0,MED-ROU,43.57
+138,9789558628092,La maison vide,Zep,Roman,DVD,2013.0,MED-TOU,38.98
+136,9783334388230,Le fil rouge I,Marjane Satrapi,Documentaire,Livre,2024.0,MED-ARM,19.23
+242,9782180822407,Terres promises I,Delphine De Vigan,Policier,Livre,2021.0,MED-TOU,28.21
+106,9787599211547,Nord perdu,Leila Slimani,Jeunesse,DVD,2018.0,MED-ARM,43.85
+118,9781725358491,Le dernier train volume 3,Emmanuel Lepage,BD,DVD,2001.0,MED-ARM,36.75
+203,9781679825883,Le bruit du temps volume 3,Herve Le Tellier,Policier,CD,2012.0,MED-TOU,38.46
+103,9784477674398,Sous les branches,Emmanuel Lepage,Manga,Livre,2012.0,MED-VIL,35.89
+250,9782665403737,Nord perdu I,Virginie Despentes,Poesie,DVD,2000.0,MED-ROU,19.66
+332,9783572598584,Une saison douce,Maylis De Kerangal,Documentaire,Livre,1999.0,MED-ROU,16.94
+244,9781593626332,L'atelier des jours volume 3,Fred Vargas,BD,Livre numerique,2004.0,MED-TOU,20.13
+368,9787898516640,Rivages,Nicolas Mathieu,Roman,Livre,2009.0,MED-LIL,43.19
+251,9781320002748,Les corps flottants,Marjane Satrapi,Poesie,Livre,2003.0,MED-ARM,38.74
+45,9783705045627,Nord perdu,Emmanuel Lepage,Essai,Livre,,MED-TOU,37.58
+135,9783877734269,L'anomalie,Herve Le Tellier,Documentaire,Livre,1998.0,MED-TOU,15.62
+296,9789227392385,Terres promises I,Emmanuel Lepage,BD,Livre,,MED-VIL,25.77
+331,9788808664471,Nord perdu I,Pierre Lemaitre,Poesie,Livre numerique,2013.0,MED-VIL,18.29
+177,9789731011756,L'atelier des jours II,Alice Zeniter,BD,Livre,2012.0,MED-SEC,39.29
+214,9784880517359,Le chant des vivants II,Nicolas Mathieu,Poesie,Livre numerique,2012.0,MED-SEC,36.24
+121,9789736192455,Rivages volume 3,Nicolas Mathieu,Jeunesse,DVD,2006.0,MED-VIL,16.96
+90,9783864806395,Le dernier train volume 3,Delphine De Vigan,Essai,Livre numerique,,MED-ARM,30.4
+311,9786754401851,Ceux qui restent,Pierre Lemaitre,Policier,CD,2025.0,MED-LIL,35.94
+300,9783144603005,Terres promises,Pierre Lemaitre,Documentaire,Livre,2013.0,MED-VIL,11.81
+261,9782748274714,La part du fleuve tome 2,Delphine De Vigan,Policier,CD,2013.0,MED-SEC,27.4
+166,9781728224050,Les corps flottants,Nicolas Mathieu,Policier,CD,2016.0,MED-ROU,13.27
+299,9781857207788,L'anomalie I,Maylis De Kerangal,Documentaire,Livre,1999.0,MED-VIL,20.3
+143,9781940082608,Rivages,Delphine De Vigan,Essai,CD,2019.0,MED-VIL,32.75
+198,9787942917046,Mille soleils tome 2,Fred Vargas,Policier,Livre,2005.0,MED-LIL,36.25
+194,9787862701289,Les corps flottants tome 2,Zep,Roman,Livre,2007.0,MED-VIL,12.55
+221,9789784037751,Le fil rouge,Virginie Despentes,Poesie,Livre,1998.0,MED-ARM,39.08
+326,9787766767255,Ceux qui restent,Nicolas Mathieu,Roman,Livre,2023.0,MED-TOU,11.09
+235,9782842151104,Une saison douce tome 2,Marjane Satrapi,Poesie,Livre,2011.0,MED-TOU,30.83
+141,9788543511980,Reparer les vivants,Fred Vargas,Documentaire,CD,2007.0,MED-ROU,42.52
+388,9781694066887,Nord perdu,Pierre Lemaitre,Jeunesse,Livre,2023.0,MED-VIL,18.31
+112,9786228466999,Le chant des vivants I,Fred Vargas,Essai,DVD,2001.0,MED-TOU,30.62
+99,9783432808710,Sous les branches,Herve Le Tellier,Roman,Livre,2017.0,MED-TOU,41.85
+301,9784377023372,Le dernier train,Maylis De Kerangal,Jeunesse,Livre,2024.0,MED-ROU,13.46
+167,9782801746978,Reparer les vivants,Delphine De Vigan,Policier,Livre,2013.0,MED-ARM,39.47
+201,9783218237280,Rivages II,Maylis De Kerangal,Manga,CD,2013.0,MED-ROU,16.42
+379,9781618818846,Le chant des vivants,Nicolas Mathieu,Policier,Livre,2022.0,MED-ROU,41.0
+270,9785807120657,L'atelier des jours volume 3,Nicolas Mathieu,Manga,Livre,,MED-VIL,17.52
+54,9787018300812,Terres promises volume 3,Maylis De Kerangal,Poesie,CD,2018.0,MED-VIL,18.81
+267,9787008282706,L'anomalie tome 2,Marjane Satrapi,Poesie,CD,2013.0,MED-ROU,43.35
+353,9782667453276,Sous les branches,Virginie Despentes,BD,Livre,2015.0,MED-ARM,28.11
+352,9787833442141,La part du fleuve I,Emmanuel Lepage,Manga,Livre,2009.0,MED-SEC,11.19
+182,9788985972083,L'atelier des jours I,Leila Slimani,Documentaire,CD,2003.0,MED-TOU,8.37
+310,9786722486114,Nord perdu,Marjane Satrapi,Manga,Livre,2024.0,MED-ARM,38.99
+229,9789482656350,Ceux qui restent II,Leila Slimani,Poesie,Livre,2001.0,MED-SEC,21.42
+386,9785660628230,L'atelier des jours,Leila Slimani,Manga,Livre,2014.0,MED-LIL,25.27
+356,9789337462620,Reparer les vivants I,Nicolas Mathieu,Manga,Livre,2012.0,MED-ARM,19.68
+321,9782227481815,Le fil rouge volume 3,Delphine De Vigan,BD,Livre,2010.0,MED-ARM,24.22
+316,9789488898894,Sous les branches,Leila Slimani,Jeunesse,DVD,2016.0,MED-LIL,39.18
+173,9782732927501,Nord perdu tome 2,Alice Zeniter,Documentaire,Livre,2002.0,MED-SEC,44.13
+256,9789556375873,Sous les branches tome 2,Emmanuel Lepage,Roman,CD,2004.0,MED-VIL,10.02
+43,9781367377426,La maison vide,Marjane Satrapi,Manga,Livre,2001.0,MED-ARM,15.83
+344,9787905623553,La maison vide II,Emmanuel Lepage,Policier,Livre,2021.0,MED-LIL,24.58
+364,9785330692457,Ceux qui restent II,Pierre Lemaitre,Roman,Livre,2023.0,MED-VIL,26.56
+307,9785881566780,La maison vide,Fred Vargas,Manga,Livre numerique,2008.0,MED-SEC,38.1
+336,9788388188442,Le dernier train,Emmanuel Lepage,Manga,CD,2014.0,MED-SEC,30.07
+169,9787112050959,Le dernier train,Leila Slimani,Poesie,Livre,1999.0,MED-VIL,25.18
+303,9781692944901,Les hautes collines,Pierre Lemaitre,Roman,CD,1998.0,MED-VIL,20.65
+367,9789160913597,Reparer les vivants volume 3,Alice Zeniter,Jeunesse,Livre,2013.0,MED-SEC,22.31
+329,9788661948313,Les jours heureux tome 2,Riad Sattouf,Poesie,CD,2017.0,MED-VIL,31.79
+26,9784445925714,Reparer les vivants,Riad Sattouf,Policier,DVD,2021.0,MED-TOU,16.43
+80,9786480877059,L'anomalie tome 2,Maylis De Kerangal,Policier,DVD,2015.0,MED-LIL,8.27
+313,9785218262430,La part du fleuve I,Fred Vargas,BD,CD,2025.0,MED-LIL,43.27
+153,9785493663362,Le fil rouge,Emmanuel Lepage,Essai,Livre,2018.0,MED-SEC,37.47
+32,9783408887563,Le dernier train,Marjane Satrapi,Policier,Livre,2004.0,MED-ARM,10.35
+255,9786768151688,Sous les branches II,Nicolas Mathieu,Roman,DVD,2002.0,MED-ARM,26.12
+202,9787180599923,Terres promises volume 3,Virginie Despentes,Manga,Livre,2022.0,MED-ROU,12.04
+365,9784204897436,Les corps flottants,Pierre Lemaitre,Poesie,Livre,2000.0,MED-SEC,38.39
+82,9785174142654,L'anomalie tome 2,Marjane Satrapi,Policier,Livre numerique,1998.0,MED-ARM,26.07
+400,9788681525644,L'atelier des jours II,Zep,Policier,Livre numerique,2001.0,MED-VIL,40.73
+155,9789368326218,Reparer les vivants II,Zep,Poesie,Livre,2005.0,MED-TOU,29.76
+402,9788879435740,Les jours heureux,Zep,Poesie,CD,2009.0,MED-ARM,35.23
+51,9782347255701,Le dernier train volume 3,Leila Slimani,Essai,Livre,2010.0,MED-SEC,41.83
+278,9785387107681,La maison vide,Alice Zeniter,Jeunesse,Livre,2013.0,MED-SEC,43.06
+181,9785521750154,Reparer les vivants,Leila Slimani,Essai,Livre,2023.0,MED-SEC,33.85
+72,9785467938517,La part du fleuve tome 2,Maylis De Kerangal,Roman,Livre,2002.0,MED-TOU,28.65
+281,9788527228418,La part du fleuve volume 3,Pierre Lemaitre,Manga,Livre numerique,,MED-LIL,7.54
+15,9787064661963,L'anomalie II,Zep,BD,DVD,2002.0,MED-ROU,20.35
+170,9782992164649,Rivages tome 2,Herve Le Tellier,Policier,Livre,2016.0,MED-TOU,10.19
+271,9783195718600,Terres promises,Jean-Paul Dubois,Manga,DVD,2017.0,MED-ARM,31.8
+309,9782193330281,Les corps flottants tome 2,Fred Vargas,Documentaire,Livre,2007.0,MED-VIL,34.33
+9,9789421018738,Nord perdu,Zep,Essai,Livre,2017.0,MED-ROU,15.77
+78,9786816171755,Mille soleils,Pierre Lemaitre,Policier,Livre numerique,2024.0,MED-ROU,27.61
+232,9789522323157,Terres promises II,Emmanuel Lepage,Roman,Livre numerique,2019.0,MED-ROU,32.15
+205,9781739890679,Les hautes collines tome 2,Alice Zeniter,Roman,Livre numerique,2025.0,MED-ROU,14.05
+6,9787967767083,L'atelier des jours I,Jean-Paul Dubois,BD,Livre,2016.0,MED-ROU,39.06
+68,9783315390044,Ceux qui restent volume 3,Pierre Lemaitre,BD,CD,2015.0,MED-ROU,10.68
+124,9788214774149,Ceux qui restent volume 3,Nicolas Mathieu,Poesie,DVD,2017.0,MED-VIL,19.65
+418,9787169023252,Le bruit du temps,Maylis De Kerangal,Manga,Livre,2003.0,MED-LIL,31.69
+175,9782343512366,Le dernier train tome 2,Jean-Paul Dubois,Roman,Livre numerique,,MED-LIL,14.72
+349,9785891019925,L'anomalie I,Jean-Paul Dubois,Poesie,Livre numerique,2020.0,MED-ROU,8.78
+96,9788808585686,L'anomalie,Emmanuel Lepage,BD,CD,2002.0,MED-TOU,12.44
+10,9786540804836,L'atelier des jours volume 3,Jean-Paul Dubois,Policier,Livre,2023.0,MED-SEC,33.8
+248,9787333238501,Rivages,Emmanuel Lepage,Jeunesse,Livre,2004.0,MED-TOU,42.73
+92,9785482248323,L'anomalie I,Catherine Meurisse,Jeunesse,Livre,2007.0,MED-SEC,34.24
+211,9786527536040,Une saison douce,Maylis De Kerangal,Manga,Livre,2022.0,MED-SEC,26.56
+46,9786066442674,Le dernier train,Alice Zeniter,BD,Livre,1998.0,MED-LIL,40.54
+192,9786987540404,Une saison douce tome 2,Jean-Paul Dubois,Roman,DVD,2016.0,MED-VIL,7.4
+48,9783081189957,Les corps flottants I,Emmanuel Lepage,Policier,Livre,2008.0,MED-TOU,29.87
+132,9788822550727,L'anomalie,Jean-Paul Dubois,BD,Livre numerique,2011.0,MED-LIL,16.85
+347,9784964104089,Nord perdu,Nicolas Mathieu,Poesie,DVD,2008.0,MED-ARM,44.13
+193,9786010890824,La part du fleuve II,Alice Zeniter,Essai,Livre,2005.0,MED-LIL,5.9
+89,9782096720003,La maison vide tome 2,Catherine Meurisse,Roman,Livre,2000.0,MED-SEC,38.77
+25,9783386860032,Comme un lundi tome 2,Fred Vargas,Jeunesse,Livre,2019.0,MED-VIL,12.27
+315,9786713825804,Terres promises,Maylis De Kerangal,Documentaire,Livre,2017.0,MED-LIL,29.92
+291,9788137267985,La maison vide II,Zep,Roman,Livre,2001.0,MED-ARM,40.67
+273,9786070672325,Comme un lundi volume 3,Riad Sattouf,Documentaire,Livre,1999.0,MED-TOU,16.03
+226,9786470995771,Sous les branches,Jean-Paul Dubois,Essai,Livre,2013.0,MED-ROU,32.11
+259,9785667552469,Les corps flottants,Maylis De Kerangal,Documentaire,CD,,MED-VIL,9.1
+262,9784052190940,L'atelier des jours II,Zep,Poesie,Livre,2008.0,MED-TOU,32.8
+162,9785069781508,La maison vide,Maylis De Kerangal,Jeunesse,Livre,2005.0,MED-SEC,13.64
+225,9781897903932,Le dernier train,Fred Vargas,Essai,DVD,2018.0,MED-LIL,41.95
+77,9786449160103,La part du fleuve II,Marjane Satrapi,Poesie,Livre,2018.0,MED-LIL,
+241,9783279945195,Les hautes collines,Pierre Lemaitre,Essai,Livre,2003.0,MED-VIL,39.95
+380,9788394900919,L'atelier des jours,Jean-Paul Dubois,Jeunesse,Livre numerique,2022.0,MED-SEC,24.66
+393,9787465744441,Rivages II,Nicolas Mathieu,Roman,Livre,2025.0,MED-SEC,13.84
+381,9781851806411,Les jours heureux volume 3,Herve Le Tellier,Poesie,Livre,2015.0,MED-ARM,41.81
+53,9787987382701,Les jours heureux volume 3,Leila Slimani,Poesie,Livre,2006.0,MED-ARM,36.01
+23,9786714205543,Les jours heureux,Alice Zeniter,BD,Livre,2005.0,MED-TOU,38.94
+373,9787492988530,Le chant des vivants I,Marjane Satrapi,Policier,CD,2024.0,MED-ROU,16.3
+71,9782291274085,Les corps flottants,Alice Zeniter,Poesie,DVD,1998.0,MED-LIL,23.89
+239,9781234653671,L'anomalie II,Zep,Poesie,Livre,2017.0,MED-TOU,6.74
+163,9788538546079,Le chant des vivants volume 3,Fred Vargas,Manga,Livre,2004.0,MED-LIL,18.82
+168,9784973165368,Les corps flottants tome 2,Riad Sattouf,Manga,Livre,2013.0,MED-TOU,17.9
+355,9786299882448,Sous les branches,Marjane Satrapi,Essai,CD,2010.0,MED-ARM,39.54
+140,9787351279327,Le fil rouge volume 3,Herve Le Tellier,Jeunesse,Livre,2000.0,MED-SEC,41.46
+39,9786837328247,Terres promises II,Riad Sattouf,Essai,DVD,2009.0,MED-VIL,40.93
+1,9787685370089,Les jours heureux,Zep,Essai,Livre numerique,2018.0,MED-ARM,22.92
+264,9786487850895,Mille soleils II,Pierre Lemaitre,Essai,Livre,2011.0,MED-ROU,22.14
+149,9786998100411,La part du fleuve II,Emmanuel Lepage,Poesie,Livre numerique,2000.0,MED-ROU,29.51
+139,9782311689940,Sous les branches,Herve Le Tellier,Essai,Livre,2013.0,MED-SEC,9.58
+128,9783651753580,Les corps flottants I,Herve Le Tellier,BD,Livre,2019.0,MED-VIL,14.56
+93,9783320211987,La maison vide,Jean-Paul Dubois,Roman,DVD,2016.0,MED-TOU,14.52
+370,9788762553161,Une saison douce tome 2,Catherine Meurisse,Poesie,DVD,2017.0,MED-TOU,42.04
+120,9786665755942,L'anomalie,Emmanuel Lepage,Jeunesse,Livre,2006.0,MED-SEC,38.08
+249,9785197471156,Les hautes collines volume 3,Delphine De Vigan,BD,Livre,2000.0,MED-SEC,33.52
+288,9787111456718,La part du fleuve volume 3,Leila Slimani,Poesie,Livre,2005.0,MED-SEC,28.98
+397,9785349286653,Le fil rouge II,Virginie Despentes,Poesie,CD,2003.0,MED-ROU,20.84
+209,9786108422960,Ceux qui restent tome 2,Fred Vargas,Essai,CD,2013.0,MED-VIL,14.08
+366,9787966054135,L'atelier des jours,Riad Sattouf,Jeunesse,DVD,2015.0,MED-VIL,35.19
+113,9784854649967,Les jours heureux tome 2,Fred Vargas,Policier,Livre numerique,2007.0,MED-TOU,31.53
+91,9785154995083,Reparer les vivants,Riad Sattouf,Essai,Livre,2025.0,MED-TOU,9.1
+407,9783816700398,L'atelier des jours,Catherine Meurisse,Manga,CD,,MED-SEC,15.37
+306,9781428700139,Terres promises II,Herve Le Tellier,Manga,CD,2019.0,MED-ROU,7.24
+376,9783833071953,L'atelier des jours tome 2,Catherine Meurisse,Manga,Livre numerique,2023.0,MED-SEC,30.3
+176,9787835462674,Nord perdu II,Catherine Meurisse,Manga,CD,2010.0,MED-ROU,44.5
+412,9781522249312,Terres promises,Pierre Lemaitre,Documentaire,DVD,2006.0,MED-ROU,19.29
+14,9783344208658,L'atelier des jours,Jean-Paul Dubois,BD,DVD,2002.0,MED-SEC,25.44
+49,9788796570265,Les jours heureux volume 3,Catherine Meurisse,Poesie,Livre,2001.0,MED-LIL,36.27
+415,9783835327360,L'atelier des jours tome 2,Maylis De Kerangal,Essai,Livre,2013.0,MED-LIL,8.01
+197,9782850061625,Rivages II,Zep,BD,Livre,2016.0,MED-ARM,30.23
+351,9787970876692,Les corps flottants,Marjane Satrapi,Manga,Livre,2016.0,MED-TOU,35.98
+277,9782334270261,La maison vide,Riad Sattouf,Jeunesse,DVD,,MED-LIL,20.21
+125,9783060745180,Une saison douce tome 2,Delphine De Vigan,Manga,Livre,2023.0,MED-LIL,29.33
+36,9783549709526,Terres promises,Emmanuel Lepage,BD,DVD,2002.0,MED-LIL,31.18
+59,9783891126850,Nord perdu II,Marjane Satrapi,Jeunesse,Livre,2012.0,MED-ARM,21.97
+324,9785782781052,Le chant des vivants,Marjane Satrapi,Documentaire,Livre,2018.0,MED-ARM,39.66
+384,9783516812359,Mille soleils,Virginie Despentes,BD,Livre,2013.0,MED-LIL,9.16
+76,9781678890499,L'anomalie,Pierre Lemaitre,Documentaire,CD,2020.0,MED-VIL,12.98
+38,9789039007922,Sous les branches,Marjane Satrapi,Poesie,Livre numerique,2025.0,MED-ROU,27.68
+339,9784261888470,La part du fleuve,Virginie Despentes,Essai,Livre,2018.0,MED-TOU,5.76
+220,9785271313237,Les hautes collines,Virginie Despentes,Poesie,Livre,2022.0,MED-ROU,16.11
+108,9789844085815,Comme un lundi volume 3,Herve Le Tellier,Roman,Livre numerique,2018.0,MED-ARM,25.8
+56,9788308711326,Les hautes collines,Pierre Lemaitre,Poesie,DVD,1998.0,MED-SEC,29.66
+17,9785816259704,L'atelier des jours tome 2,Jean-Paul Dubois,BD,Livre,2012.0,MED-ARM,26.02
+224,9788304793249,Le bruit du temps tome 2,Pierre Lemaitre,Manga,CD,1998.0,MED-VIL,30.98
+408,9788398160261,Le bruit du temps,Alice Zeniter,Essai,CD,2023.0,MED-VIL,35.04
+12,9785295886288,La part du fleuve I,Nicolas Mathieu,Policier,DVD,2000.0,MED-ROU,15.29
+126,9781234798612,Le fil rouge,Zep,Poesie,Livre,,MED-TOU,20.67
+20,9785108511848,Le chant des vivants,Pierre Lemaitre,BD,Livre,2004.0,MED-TOU,22.3
+293,9782406076621,Ceux qui restent,Catherine Meurisse,Essai,Livre,2018.0,MED-LIL,
+50,9786635109742,L'anomalie,Zep,Documentaire,Livre,2022.0,MED-TOU,22.59
+21,9782309575318,La part du fleuve,Delphine De Vigan,BD,Livre,2010.0,MED-VIL,25.16
+200,9783118448068,La maison vide,Fred Vargas,Manga,DVD,2025.0,MED-ROU,44.55
+346,9786891936755,Le dernier train volume 3,Riad Sattouf,BD,Livre numerique,2014.0,MED-SEC,32.14
+148,9787881183939,Rivages II,Pierre Lemaitre,Jeunesse,Livre numerique,2010.0,MED-VIL,16.8
+333,9789443793199,Terres promises tome 2,Delphine De Vigan,Roman,Livre,2002.0,MED-VIL,23.08
+4,9788348097760,Le fil rouge,Delphine De Vigan,Essai,Livre,2007.0,MED-LIL,21.25
+44,9784381186517,Reparer les vivants,Pierre Lemaitre,Jeunesse,Livre,2019.0,MED-ARM,16.78
+110,9789201446236,Le chant des vivants volume 3,Emmanuel Lepage,Documentaire,DVD,2010.0,MED-ARM,20.43
+350,9782804327710,La part du fleuve,Leila Slimani,Jeunesse,Livre numerique,2000.0,MED-ROU,33.03
+134,9784807691977,Ceux qui restent tome 2,Leila Slimani,Essai,Livre,1998.0,MED-LIL,19.7
+411,9788207756930,Rivages tome 2,Riad Sattouf,Essai,Livre,2013.0,MED-VIL,35.84
+392,9787339037588,La maison vide II,Zep,Poesie,Livre,2013.0,MED-LIL,12.4
+119,9784375386501,Terres promises,Marjane Satrapi,Documentaire,Livre,2011.0,MED-LIL,21.71
+5,9787403928141,Comme un lundi I,Catherine Meurisse,Jeunesse,Livre numerique,2011.0,MED-VIL,27.78
+122,9785994964948,Terres promises,Emmanuel Lepage,Jeunesse,Livre,2012.0,MED-TOU,9.86
+216,9789558749268,Le fil rouge tome 2,Catherine Meurisse,Essai,Livre,2001.0,MED-SEC,31.94
+215,9781267444947,Les corps flottants I,Nicolas Mathieu,Poesie,CD,2000.0,MED-TOU,42.58
+16,9788876110267,Les jours heureux I,Riad Sattouf,Poesie,Livre numerique,1999.0,MED-LIL,6.51
+375,9781153590015,Sous les branches I,Marjane Satrapi,BD,Livre,2017.0,MED-LIL,28.59
+67,9788994276323,Rivages II,Zep,Essai,Livre,2023.0,MED-ARM,32.3
+179,9787785940292,Le chant des vivants II,Nicolas Mathieu,Poesie,Livre,2015.0,MED-TOU,14.25
+383,9786559797970,Sous les branches II,Leila Slimani,Policier,Livre,2015.0,MED-LIL,36.83
+236,9788045276632,Le bruit du temps,Jean-Paul Dubois,Roman,DVD,2021.0,MED-ARM,34.08
+272,9781268309749,Les jours heureux volume 3,Catherine Meurisse,Jeunesse,Livre,2020.0,MED-ROU,20.87
+35,9781634295292,Le dernier train tome 2,Maylis De Kerangal,Roman,Livre,2023.0,MED-ARM,24.41
+282,9786092299519,L'anomalie II,Nicolas Mathieu,Essai,Livre,2010.0,MED-VIL,23.15
+322,9786941037091,Mille soleils II,Virginie Despentes,BD,CD,2005.0,MED-SEC,7.93
+160,9785450407653,Reparer les vivants I,Alice Zeniter,Essai,Livre,2004.0,MED-SEC,26.4
+24,9783312319096,Une saison douce,Fred Vargas,Jeunesse,DVD,2023.0,MED-ARM,34.37
+183,9788109872113,Ceux qui restent I,Alice Zeniter,Roman,Livre numerique,2017.0,MED-LIL,18.33
+100,9781416979212,La maison vide,Riad Sattouf,Essai,Livre numerique,2016.0,MED-ROU,29.49
+265,9781883735838,Le dernier train,Maylis De Kerangal,Jeunesse,CD,2006.0,MED-SEC,9.55
+210,9788384520396,Ceux qui restent I,Delphine De Vigan,Roman,Livre numerique,2020.0,MED-LIL,8.57
+150,9788611803330,Les corps flottants volume 3,Marjane Satrapi,Documentaire,CD,2006.0,MED-SEC,39.2
+279,9784171150508,Le bruit du temps,Jean-Paul Dubois,Documentaire,Livre,2018.0,MED-VIL,
+172,9789653644462,Les corps flottants,Marjane Satrapi,BD,CD,2003.0,MED-SEC,17.75
+64,9788980119160,Rivages,Jean-Paul Dubois,Policier,Livre numerique,2022.0,MED-ARM,43.99
+231,9782271598822,Terres promises,Pierre Lemaitre,BD,Livre,2010.0,MED-ROU,25.25
+57,9782454905342,L'atelier des jours,Maylis De Kerangal,Documentaire,CD,2013.0,MED-LIL,31.6
+22,9787525494609,La part du fleuve II,Jean-Paul Dubois,Policier,DVD,2008.0,MED-ARM,36.97
+13,9788024025962,Les corps flottants,Pierre Lemaitre,Roman,Livre,,MED-SEC,28.53
+298,9787234109937,Mille soleils,Alice Zeniter,Essai,DVD,2009.0,MED-LIL,6.93
+320,9788053117723,Ceux qui restent I,Virginie Despentes,Jeunesse,Livre,2005.0,MED-LIL,
+328,9786181442738,Nord perdu tome 2,Maylis De Kerangal,Manga,Livre numerique,1999.0,MED-VIL,35.87
+187,9781561551732,Nord perdu,Pierre Lemaitre,Documentaire,CD,2021.0,MED-ARM,40.49
+257,9782396056444,Les corps flottants volume 3,Emmanuel Lepage,Poesie,Livre,2009.0,MED-ARM,38.49
+389,9786422964056,Le chant des vivants II,Pierre Lemaitre,Poesie,Livre,2021.0,MED-LIL,35.56
+240,9786592154245,Rivages volume 3,Jean-Paul Dubois,Policier,Livre,2012.0,MED-LIL,44.06
+377,9788697412347,La part du fleuve II,Herve Le Tellier,BD,CD,2018.0,MED-VIL,6.96
+8,9789093651530,Le fil rouge,Virginie Despentes,Documentaire,Livre,2020.0,MED-TOU,5.87
+390,9785145032891,La maison vide tome 2,Pierre Lemaitre,Jeunesse,Livre,2018.0,MED-ROU,32.68
+86,9787534146428,Mille soleils,Herve Le Tellier,Manga,Livre numerique,2007.0,MED-SEC,28.42
+151,9782150994409,Ceux qui restent II,Fred Vargas,Essai,Livre,2021.0,MED-ROU,34.01
+28,9782331090575,Le chant des vivants II,Fred Vargas,Poesie,Livre,1998.0,MED-VIL,29.49
+191,9783005882924,Mille soleils I,Leila Slimani,Documentaire,Livre,2006.0,MED-SEC,7.53
+269,9783042932096,Comme un lundi I,Nicolas Mathieu,Policier,Livre,2012.0,MED-LIL,23.21
+372,9786329301854,Les jours heureux,Jean-Paul Dubois,Manga,CD,2017.0,MED-ARM,26.74
+154,9786645414654,Les hautes collines,Fred Vargas,Policier,CD,2014.0,MED-SEC,16.57
+395,9786462929176,Ceux qui restent,Nicolas Mathieu,Roman,Livre numerique,2008.0,MED-ARM,17.58
+420,9785067848337,Le fil rouge II,Maylis De Kerangal,BD,Livre,2002.0,MED-ARM,36.31
+327,9781810443113,Sous les branches,Leila Slimani,Roman,Livre,2023.0,MED-SEC,30.96
+247,9784563273485,Le bruit du temps,Leila Slimani,Poesie,DVD,2007.0,MED-LIL,40.31
+312,9788016990497,Les jours heureux volume 3,Herve Le Tellier,Roman,Livre,2020.0,MED-SEC,18.16
+79,9783547078406,Une saison douce,Catherine Meurisse,Poesie,Livre numerique,2018.0,MED-TOU,43.71
+19,9785501930879,La maison vide,Emmanuel Lepage,Documentaire,Livre,2024.0,MED-SEC,32.31
+18,9783569333643,La part du fleuve,Riad Sattouf,Policier,DVD,2012.0,MED-VIL,6.85
+87,9783277946209,Une saison douce,Nicolas Mathieu,Poesie,Livre numerique,2014.0,MED-ROU,28.67
+74,9782599229892,La maison vide volume 3,Alice Zeniter,Manga,CD,2004.0,MED-VIL,23.65
+337,9786315679170,Reparer les vivants volume 3,Emmanuel Lepage,Poesie,Livre,2025.0,MED-VIL,38.19
+7,9788191077343,Les jours heureux,Marjane Satrapi,Jeunesse,DVD,2012.0,MED-VIL,31.96
+88,9789546727296,Le dernier train volume 3,Virginie Despentes,Roman,Livre,2023.0,MED-ROU,7.52
+217,9784253084112,Les corps flottants,Maylis De Kerangal,BD,Livre,2002.0,MED-TOU,28.08
+222,9782408704586,La part du fleuve,Alice Zeniter,Jeunesse,Livre,2022.0,MED-VIL,8.5
+97,9782630125547,Le dernier train I,Marjane Satrapi,Essai,CD,2024.0,MED-VIL,32.0
+286,9785424322793,Les corps flottants tome 2,Zep,BD,Livre,2012.0,MED-ARM,19.15
+127,9781334605116,Terres promises II,Pierre Lemaitre,Roman,CD,1999.0,MED-TOU,42.44
+117,9785497046599,Reparer les vivants tome 2,Pierre Lemaitre,Manga,CD,2021.0,MED-LIL,15.6
+246,9788642019058,Le chant des vivants I,Herve Le Tellier,BD,DVD,2016.0,MED-ROU,17.71
+275,9786296307290,Le fil rouge,Riad Sattouf,Manga,CD,,MED-ROU,6.04
+297,9781188485227,Une saison douce I,Emmanuel Lepage,Essai,Livre numerique,2009.0,MED-SEC,44.27
+94,9785359953250,Les hautes collines II,Virginie Despentes,Policier,Livre,1999.0,MED-SEC,30.09
+292,9789054620312,L'atelier des jours tome 2,Marjane Satrapi,Poesie,Livre,2016.0,MED-ROU,12.0
+283,9783067158249,La part du fleuve volume 3,Virginie Despentes,Essai,Livre numerique,2017.0,MED-ROU,8.28
+413,9789297498572,L'anomalie,Leila Slimani,Poesie,Livre,2018.0,MED-TOU,22.22
+159,9784297788525,Le chant des vivants I,Leila Slimani,BD,Livre,2012.0,MED-ROU,43.84
+195,9787102629304,Ceux qui restent II,Riad Sattouf,Roman,Livre,2024.0,MED-TOU,20.85
+137,9785809030907,Nord perdu II,Herve Le Tellier,Essai,Livre,2015.0,MED-ROU,12.91
+360,9788539390322,Le chant des vivants tome 2,Herve Le Tellier,Jeunesse,CD,2013.0,MED-ARM,20.77
+263,9789704148851,Mille soleils volume 3,Maylis De Kerangal,Roman,DVD,2004.0,MED-VIL,43.48
+398,9784361328949,Les hautes collines,Jean-Paul Dubois,Jeunesse,Livre,2014.0,MED-TOU,40.92
+334,9785822865648,Comme un lundi I,Marjane Satrapi,Documentaire,DVD,2009.0,MED-LIL,18.92
+274,9787410371104,Mille soleils tome 2,Riad Sattouf,Documentaire,Livre,2007.0,MED-SEC,12.92
+129,9784404985202,L'anomalie,Nicolas Mathieu,Manga,Livre,,MED-ROU,
+111,9786985455723,Le chant des vivants II,Emmanuel Lepage,BD,Livre,2003.0,MED-ARM,12.99
+165,9788783857272,L'anomalie,Jean-Paul Dubois,Roman,Livre numerique,2022.0,MED-TOU,36.58
+391,9783802137805,Le fil rouge volume 3,Marjane Satrapi,BD,Livre,2008.0,MED-SEC,34.68
+409,9785544058561,Le dernier train,Zep,Manga,CD,2024.0,MED-SEC,8.47
+280,9783943316683,La maison vide,Delphine De Vigan,Poesie,CD,2013.0,MED-TOU,34.17
+102,9785941638633,La part du fleuve,Riad Sattouf,Roman,Livre,1998.0,MED-ARM,10.3
+284,9784988490290,Terres promises I,Nicolas Mathieu,Documentaire,Livre numerique,2016.0,MED-SEC,42.39
+174,9785484710648,Les corps flottants,Maylis De Kerangal,Policier,DVD,2009.0,MED-ARM,28.72
+81,9781094344765,Mille soleils volume 3,Catherine Meurisse,Poesie,Livre,2023.0,MED-LIL,9.65
+396,9789707451420,Terres promises,Zep,Jeunesse,Livre,2018.0,MED-VIL,17.84
+362,9783971634378,Les jours heureux tome 2,Herve Le Tellier,Poesie,Livre,2009.0,MED-LIL,11.53
+361,9786954810928,L'atelier des jours,Virginie Despentes,Essai,Livre numerique,2000.0,MED-ARM,35.94
+29,9783610419498,Les corps flottants volume 3,Nicolas Mathieu,Essai,Livre,2008.0,MED-SEC,40.2
+218,9789874543017,Reparer les vivants,Riad Sattouf,Roman,Livre,2017.0,MED-ARM,29.35
+70,9783976330831,Une saison douce II,Zep,BD,CD,,MED-ROU,21.85
+314,9787658912784,Les jours heureux,Herve Le Tellier,Poesie,Livre,2010.0,MED-ARM,30.21
+164,9784925980263,Une saison douce,Fred Vargas,BD,Livre,2005.0,MED-VIL,
+131,9782338444332,Mille soleils I,Herve Le Tellier,BD,DVD,2011.0,MED-VIL,33.78
+227,9783435325187,Le dernier train volume 3,Alice Zeniter,Roman,Livre,2018.0,MED-SEC,36.93
+101,9781485907745,Rivages,Pierre Lemaitre,Roman,DVD,2013.0,MED-ARM,17.79
+105,9789569115838,Le dernier train II,Leila Slimani,Poesie,Livre,2020.0,MED-LIL,14.58
+237,9784833953327,Rivages I,Herve Le Tellier,Jeunesse,DVD,2010.0,MED-VIL,8.17
+399,9787069481240,Les corps flottants,Herve Le Tellier,BD,Livre,2010.0,MED-ARM,8.84
+95,9786742766243,La maison vide,Herve Le Tellier,BD,Livre,2004.0,MED-LIL,6.25
+213,9782022638667,Le fil rouge I,Zep,Poesie,Livre,2001.0,MED-LIL,15.68
+330,9785720168930,L'atelier des jours tome 2,Nicolas Mathieu,Jeunesse,Livre,2018.0,MED-TOU,15.11
+382,9785404588590,Le bruit du temps II,Maylis De Kerangal,Poesie,Livre,2004.0,MED-LIL,26.44
+178,9781402922632,Les hautes collines,Alice Zeniter,Poesie,Livre,2003.0,MED-LIL,23.51
+133,9786118283222,Les jours heureux,Marjane Satrapi,Essai,DVD,2011.0,MED-ARM,11.45
+188,9787380286179,Les hautes collines,Maylis De Kerangal,Jeunesse,CD,2012.0,MED-LIL,19.7
+98,9783539443922,Ceux qui restent tome 2,Riad Sattouf,Jeunesse,Livre,2000.0,MED-LIL,20.4
+116,9781562387933,Le dernier train,Maylis De Kerangal,Essai,Livre,2011.0,MED-LIL,22.95
+305,9787210289684,Reparer les vivants volume 3,Fred Vargas,BD,Livre,2009.0,MED-TOU,33.12
+414,9781118176309,Terres promises,Maylis De Kerangal,Jeunesse,DVD,2004.0,MED-TOU,39.26
+199,9783873693934,Rivages volume 3,Maylis De Kerangal,BD,Livre numerique,2011.0,MED-ARM,37.58
+190,9784029129091,La part du fleuve I,Nicolas Mathieu,Essai,Livre,2018.0,MED-TOU,34.41
+75,9787900331946,Une saison douce,Fred Vargas,Documentaire,CD,2007.0,MED-ROU,10.08
+156,9787361131746,Terres promises tome 2,Jean-Paul Dubois,Policier,Livre numerique,2003.0,MED-ARM,10.59
+338,9788369156359,La part du fleuve tome 2,Pierre Lemaitre,Policier,Livre,2021.0,MED-LIL,20.26
+363,9784413652360,Le fil rouge II,Jean-Paul Dubois,Jeunesse,Livre,2000.0,MED-TOU,18.09
+319,9781137665519,Rivages II,Nicolas Mathieu,Policier,Livre numerique,2008.0,MED-ARM,36.48
+69,9788685892210,Comme un lundi I,Emmanuel Lepage,BD,Livre,2006.0,MED-TOU,43.54
+238,9788015315907,Mille soleils II,Maylis De Kerangal,Documentaire,Livre,2011.0,MED-LIL,8.32
+47,9782608711742,Rivages,Delphine De Vigan,Jeunesse,Livre,2020.0,MED-ARM,11.59
+60,9781572315428,Rivages,Maylis De Kerangal,Jeunesse,Livre,2015.0,MED-LIL,12.82
+253,9785588208959,Reparer les vivants I,Emmanuel Lepage,Manga,Livre,2012.0,MED-TOU,43.55
+343,9788975109690,Une saison douce II,Nicolas Mathieu,Manga,Livre numerique,2022.0,MED-SEC,6.96
+252,9782844725568,Les hautes collines,Delphine De Vigan,Poesie,Livre,2007.0,MED-SEC,25.68
+348,9784224183718,Le bruit du temps,Fred Vargas,Roman,DVD,2003.0,MED-TOU,
+115,9782487912120,Ceux qui restent I,Pierre Lemaitre,Essai,Livre,2000.0,MED-LIL,41.77
+204,9789567561797,Le bruit du temps,Herve Le Tellier,Essai,CD,2022.0,MED-ARM,44.14
+3,9783738975628,Terres promises tome 2,Marjane Satrapi,Poesie,Livre,2023.0,MED-ARM,26.75
+317,9786424399434,Les jours heureux volume 3,Alice Zeniter,Jeunesse,DVD,1998.0,MED-ARM,31.39
+410,9787777380090,Le fil rouge volume 3,Fred Vargas,Manga,Livre,2025.0,MED-TOU,25.11
+287,9786377505215,Une saison douce,Maylis De Kerangal,BD,Livre,2007.0,MED-ROU,9.44
+369,9787872312624,Terres promises,Nicolas Mathieu,Poesie,Livre,2000.0,MED-LIL,6.35
+42,9783459424283,Le chant des vivants,Virginie Despentes,Manga,DVD,2007.0,MED-ARM,37.58
+354,9781328497183,Les hautes collines,Delphine De Vigan,Documentaire,CD,2021.0,MED-TOU,27.72
+268,9788475817743,Le chant des vivants I,Alice Zeniter,Documentaire,DVD,2014.0,MED-ROU,37.84
+266,9783919680556,La maison vide tome 2,Pierre Lemaitre,Poesie,Livre,,MED-TOU,11.43
+387,9786680522400,Les jours heureux,Alice Zeniter,Manga,Livre,2008.0,MED-SEC,26.65
+171,9789576269054,La maison vide II,Virginie Despentes,BD,DVD,2024.0,MED-ROU,28.12
+34,9781537764536,Les hautes collines volume 3,Alice Zeniter,Roman,CD,2019.0,MED-SEC,42.42
+304,9785861105470,La part du fleuve I,Emmanuel Lepage,Roman,Livre,2018.0,MED-SEC,35.02
+144,9789047966686,Reparer les vivants,Leila Slimani,Jeunesse,DVD,2008.0,MED-SEC,26.23
+85,9783275963392,Comme un lundi volume 3,Jean-Paul Dubois,Documentaire,Livre,2013.0,MED-SEC,6.84
+130,9786527945503,Le dernier train,Catherine Meurisse,Poesie,DVD,2022.0,MED-SEC,38.47
+276,9784987953203,Le fil rouge I,Fred Vargas,Documentaire,Livre,,MED-LIL,24.32
+323,9787194375906,Les jours heureux,Leila Slimani,Roman,Livre,1998.0,MED-LIL,35.38
+345,9784857607094,Ceux qui restent,Catherine Meurisse,Jeunesse,Livre,2000.0,MED-TOU,30.1
+335,9784126866949,Les hautes collines I,Jean-Paul Dubois,Poesie,Livre,1999.0,MED-ROU,11.53
+196,9785637643402,Comme un lundi,Marjane Satrapi,Jeunesse,DVD,2009.0,MED-LIL,25.23
+404,9787484665054,Terres promises,Herve Le Tellier,Jeunesse,Livre,2020.0,MED-TOU,
+243,9786107080689,L'atelier des jours,Virginie Despentes,Essai,Livre numerique,2012.0,MED-SEC,44.5
+358,9785349830155,Les corps flottants I,Marjane Satrapi,BD,Livre numerique,1998.0,MED-TOU,27.98
+385,9782585671188,L'atelier des jours tome 2,Pierre Lemaitre,BD,DVD,2006.0,MED-ROU,20.3
+157,9785136842938,Terres promises II,Nicolas Mathieu,Poesie,Livre,2010.0,MED-ARM,32.76
+401,9782848798644,Comme un lundi tome 2,Pierre Lemaitre,Policier,Livre,1999.0,MED-ROU,9.48
+357,9784133474244,Les hautes collines,Pierre Lemaitre,Roman,Livre,2014.0,MED-SEC,16.08

@@ -1,0 +1,241 @@
+id_adherent,nom,prenom,code_postal,tranche_age,date_inscription,code_site,abonnement_actif
+1,Caron,Jade,59300.0,14-25 ans,2023-02-06,MED-LIL,oui
+2,Guerin,Sacha,59300.0,14-25 ans,2024-02-09,MED-ARM,oui
+3,Dubois,Ethan,59200.0,14-25 ans,2023-07-28,MED-ARM,non
+4,Caron,Manon,59100.0,Moins de 14 ans,2023-10-01,MED-ARM,oui
+5,Renard,Jade,59300.0,14-25 ans,2024-12-29,MED-LIL,oui
+6,Guerin,Chloe,59100.0,inconnu,2023-02-14,MED-SEC,oui
+7,Moreau,Nathan,59800.0,Moins de 14 ans,2023-05-11,MED-ARM,oui
+8,Picard,Tom,59100.0,26-59 ans,2023-11-07,MED-ARM,oui
+9,Colin,Sacha,59300.0,14-25 ans,2024-07-04,MED-ARM,non
+10,Fontaine,Emma,59000.0,Moins de 14 ans,2024-04-04,MED-LIL,non
+11,Lefevre,Rayan,59650.0,Moins de 14 ans,2025-07-19,MED-TOU,non
+12,Renard,Nathan,59200.0,26-59 ans,2022-04-25,MED-ARM,oui
+13,Renard,Rayan,59650.0,Moins de 14 ans,2022-05-02,MED-LIL,non
+14,Dubois,Camille,59300.0,Moins de 14 ans,2022-10-27,MED-SEC,non
+15,Leroy,Ethan,59100.0,14-25 ans,2022-08-21,MED-ROU,oui
+16,Moreau,Hugo,59200.0,14-25 ans,2023-06-03,MED-LIL,oui
+17,Blanchard,Emma,59650.0,60 ans et plus,2023-04-23,MED-ARM,oui
+18,Lambert,Ethan,59650.0,26-59 ans,2025-10-05,MED-ARM,oui
+19,Picard,Jade,59000.0,60 ans et plus,2023-08-13,MED-LIL,oui
+20,Fontaine,Camille,59100.0,Moins de 14 ans,2022-08-02,MED-ARM,oui
+21,Masson,Hugo,59100.0,60 ans et plus,2022-06-20,MED-TOU,non
+22,Guerin,Emma,59300.0,60 ans et plus,2024-09-27,MED-TOU,oui
+23,Blanchard,Manon,59113.0,14-25 ans,2022-06-26,MED-TOU,oui
+24,Blanchard,Emma,59650.0,26-59 ans,2024-06-09,MED-VIL,oui
+25,Vasseur,Nathan,59200.0,14-25 ans,2022-11-06,MED-TOU,oui
+26,Colin,Sacha,59000.0,Moins de 14 ans,2023-11-03,MED-SEC,oui
+27,Vasseur,Hugo,59113.0,Moins de 14 ans,2022-09-19,MED-SEC,non
+28,Delaunay,Ines,59113.0,60 ans et plus,2022-06-27,MED-SEC,oui
+29,Picard,Sofia,59800.0,60 ans et plus,2022-07-04,MED-ARM,oui
+30,Dubois,Nathan,59000.0,60 ans et plus,2024-05-30,MED-ROU,oui
+31,Mercier,Louise,59200.0,inconnu,2023-06-20,MED-LIL,oui
+32,Leroy,Lina,59100.0,14-25 ans,2025-01-02,MED-SEC,non
+33,Guerin,Zoe,59113.0,26-59 ans,2023-02-22,MED-VIL,oui
+34,Renard,Zoe,59650.0,inconnu,2023-01-24,MED-SEC,oui
+35,Lambert,Jade,59493.0,26-59 ans,2024-03-04,MED-TOU,non
+36,Blanchard,Lina,59113.0,14-25 ans,2023-01-27,MED-TOU,oui
+37,Girard,Rayan,59200.0,26-59 ans,2023-08-04,MED-ARM,non
+38,Delaunay,Ethan,59300.0,Moins de 14 ans,2023-08-22,MED-VIL,oui
+39,Delaunay,Hugo,59000.0,26-59 ans,2023-07-26,MED-ARM,non
+40,Blanchard,Lina,59650.0,60 ans et plus,2024-03-06,MED-LIL,non
+41,Hebert,Ethan,59800.0,60 ans et plus,2025-01-14,MED-ROU,non
+42,Guerin,Noah,59493.0,Moins de 14 ans,2024-06-03,MED-ARM,oui
+43,Picard,Lina,59800.0,Moins de 14 ans,2023-06-08,MED-ARM,oui
+44,Caron,Rayan,59493.0,Moins de 14 ans,2024-06-03,MED-TOU,oui
+45,Lambert,Chloe,59200.0,14-25 ans,2022-10-27,MED-LIL,non
+46,Delaunay,Manon,59113.0,Moins de 14 ans,2025-03-27,MED-SEC,oui
+47,Girard,Manon,59650.0,Moins de 14 ans,2022-08-10,MED-VIL,oui
+48,Masson,Adam,59300.0,Moins de 14 ans,2024-09-11,MED-VIL,oui
+49,Masson,Camille,59100.0,Moins de 14 ans,2025-05-06,MED-LIL,oui
+50,Picard,Louise,59650.0,Moins de 14 ans,2024-09-23,MED-ROU,oui
+51,Rousseau,Zoe,59000.0,14-25 ans,2024-11-27,MED-ROU,oui
+52,Hebert,Gabriel,59000.0,Moins de 14 ans,2023-07-23,MED-ARM,oui
+53,Picard,Ethan,59300.0,Moins de 14 ans,2024-01-20,MED-ARM,non
+54,Leroy,Noah,59800.0,Moins de 14 ans,2024-07-07,MED-TOU,oui
+55,Renard,Adam,59493.0,26-59 ans,2022-08-09,MED-SEC,oui
+56,Renard,Rayan,,14-25 ans,2023-07-11,MED-LIL,oui
+57,Guerin,Adam,59000.0,60 ans et plus,2022-02-24,MED-LIL,oui
+58,Rousseau,Sacha,59800.0,14-25 ans,2024-05-22,MED-TOU,oui
+59,Lambert,Manon,59800.0,60 ans et plus,2023-04-28,MED-ROU,non
+60,Masson,Sofia,59200.0,Moins de 14 ans,2024-09-17,MED-LIL,oui
+61,Dubois,Rayan,59800.0,26-59 ans,2022-12-15,MED-ARM,non
+62,Moreau,Louise,59650.0,Moins de 14 ans,2024-07-11,MED-ARM,non
+63,Fontaine,Rayan,59800.0,14-25 ans,2022-03-17,MED-LIL,oui
+64,Vasseur,Gabriel,59100.0,26-59 ans,2025-02-19,MED-ARM,oui
+65,Girard,Gabriel,59493.0,60 ans et plus,2022-01-02,MED-ROU,non
+66,Caron,Hugo,59000.0,60 ans et plus,2023-04-06,MED-SEC,oui
+67,Dubois,Noah,59650.0,14-25 ans,2022-08-03,MED-VIL,oui
+68,Delaunay,Nathan,59113.0,26-59 ans,2022-10-09,MED-ROU,non
+69,Guerin,Louise,59650.0,Moins de 14 ans,2023-05-21,MED-ROU,oui
+70,Blanchard,Zoe,59000.0,14-25 ans,2022-08-28,MED-TOU,non
+71,Picard,Louise,59200.0,14-25 ans,2022-08-13,MED-SEC,oui
+72,Moreau,Manon,59300.0,60 ans et plus,2024-11-10,MED-VIL,non
+73,Dubois,Jade,59300.0,Moins de 14 ans,2024-03-24,MED-ARM,oui
+74,Masson,Nathan,,14-25 ans,2024-03-15,MED-ARM,oui
+75,Blanchard,Zoe,59200.0,14-25 ans,2025-05-22,MED-TOU,non
+76,Moreau,Tom,59100.0,Moins de 14 ans,2022-10-10,MED-LIL,non
+77,Leroy,Gabriel,59200.0,14-25 ans,2023-04-07,MED-SEC,non
+78,Masson,Chloe,59650.0,60 ans et plus,2022-03-02,MED-TOU,oui
+79,Lambert,Adam,59493.0,Moins de 14 ans,2022-03-24,MED-ARM,oui
+80,Delaunay,Nathan,59800.0,60 ans et plus,2023-09-09,MED-ROU,non
+81,Moreau,Camille,59493.0,60 ans et plus,2023-12-10,MED-TOU,oui
+82,Dubois,Gabriel,59493.0,26-59 ans,2023-02-09,MED-LIL,oui
+83,Dubois,Ethan,59800.0,Moins de 14 ans,2025-04-07,MED-SEC,oui
+84,Lefevre,Zoe,59650.0,26-59 ans,2024-02-28,MED-ROU,oui
+85,Rousseau,Camille,59650.0,60 ans et plus,2025-04-04,MED-LIL,non
+86,Hebert,Sacha,59493.0,Moins de 14 ans,2024-05-04,MED-LIL,oui
+87,Rousseau,Emma,59493.0,Moins de 14 ans,2024-12-24,MED-ROU,non
+88,Picard,Lina,59113.0,60 ans et plus,2024-01-28,MED-ARM,oui
+89,Colin,Noah,59650.0,14-25 ans,2024-11-05,MED-LIL,oui
+90,Moreau,Ethan,59493.0,14-25 ans,2022-09-08,MED-TOU,oui
+91,Rousseau,Chloe,59200.0,26-59 ans,2023-07-14,MED-ROU,oui
+92,Mercier,Lucas,59200.0,60 ans et plus,2023-12-25,MED-ROU,non
+93,Leroy,Hugo,59000.0,Moins de 14 ans,2024-02-18,MED-ARM,non
+94,Bonnet,Zoe,59200.0,14-25 ans,2022-04-10,MED-VIL,oui
+95,Blanchard,Camille,59113.0,14-25 ans,2022-11-15,MED-SEC,oui
+96,Dubois,Lucas,59800.0,60 ans et plus,2024-07-03,MED-ARM,non
+97,Lambert,Lucas,59493.0,14-25 ans,2024-08-23,MED-VIL,oui
+98,Lefevre,Nathan,59200.0,60 ans et plus,2022-03-02,MED-LIL,oui
+99,Moreau,Emma,59000.0,14-25 ans,2023-09-20,MED-ROU,oui
+100,Renard,Rayan,59100.0,26-59 ans,2022-08-15,MED-TOU,non
+101,Caron,Gabriel,59100.0,60 ans et plus,2024-10-16,MED-VIL,oui
+102,Lefevre,Gabriel,59100.0,Moins de 14 ans,2022-10-23,MED-LIL,oui
+103,Masson,Ines,59800.0,14-25 ans,2024-09-08,MED-ARM,oui
+104,Picard,Lina,59650.0,26-59 ans,2023-03-09,MED-LIL,oui
+105,Fontaine,Hugo,59200.0,14-25 ans,2025-01-26,MED-ARM,non
+106,Bonnet,Zoe,59100.0,14-25 ans,2024-12-16,MED-TOU,oui
+107,Caron,Sacha,59493.0,Moins de 14 ans,2022-12-25,MED-VIL,oui
+108,Hebert,Rayan,59200.0,Moins de 14 ans,2024-02-24,MED-SEC,oui
+109,Lefevre,Rayan,59650.0,14-25 ans,2025-07-13,MED-TOU,oui
+110,Caron,Lucas,59000.0,Moins de 14 ans,2024-01-31,MED-LIL,oui
+111,Hebert,Lucas,59000.0,60 ans et plus,2025-01-27,MED-ROU,non
+112,Girard,Nathan,59493.0,60 ans et plus,2023-05-09,MED-LIL,oui
+113,Guerin,Sofia,,60 ans et plus,2024-07-09,MED-VIL,oui
+114,Renard,Ines,59800.0,14-25 ans,2023-02-26,MED-VIL,oui
+115,Vasseur,Rayan,59200.0,60 ans et plus,2025-11-01,MED-VIL,non
+116,Picard,Tom,59200.0,60 ans et plus,2024-12-19,MED-VIL,oui
+117,Colin,Ethan,59113.0,14-25 ans,2022-09-15,MED-TOU,non
+118,Renard,Zoe,59113.0,Moins de 14 ans,2022-12-24,MED-LIL,oui
+119,Leroy,Adam,59300.0,60 ans et plus,2024-06-12,MED-ARM,oui
+120,Girard,Camille,59200.0,14-25 ans,2024-04-09,MED-LIL,oui
+121,Picard,Noah,59650.0,26-59 ans,2023-04-17,MED-ROU,oui
+122,Fontaine,Chloe,59800.0,60 ans et plus,2025-01-05,MED-LIL,oui
+123,Colin,Ethan,59493.0,26-59 ans,2022-01-28,MED-ARM,oui
+124,Renard,Noah,59100.0,Moins de 14 ans,2023-04-26,MED-ROU,non
+125,Lambert,Lina,59650.0,Moins de 14 ans,2023-03-03,MED-ROU,oui
+126,Vasseur,Chloe,59200.0,Moins de 14 ans,2022-07-04,MED-VIL,oui
+127,Dubois,Hugo,59493.0,26-59 ans,2024-05-05,MED-LIL,oui
+128,Leroy,Lina,59200.0,26-59 ans,2023-12-26,MED-SEC,oui
+129,Masson,Zoe,59800.0,Moins de 14 ans,2022-02-17,MED-TOU,non
+130,Delaunay,Lina,59493.0,Moins de 14 ans,2022-06-21,MED-SEC,oui
+131,Rousseau,Camille,59100.0,14-25 ans,2022-07-31,MED-LIL,non
+132,Guerin,Tom,59493.0,60 ans et plus,2024-05-21,MED-VIL,non
+133,Delaunay,Chloe,59113.0,14-25 ans,2022-07-17,MED-TOU,oui
+134,Rousseau,Nathan,59200.0,14-25 ans,2023-07-31,MED-ARM,non
+135,Hebert,Emma,59800.0,14-25 ans,2022-08-23,MED-ARM,non
+136,Guerin,Gabriel,59113.0,Moins de 14 ans,2022-04-11,MED-ARM,oui
+137,Dubois,Gabriel,59000.0,Moins de 14 ans,2025-06-13,MED-ROU,non
+138,Rousseau,Sofia,59100.0,14-25 ans,2023-02-18,MED-LIL,oui
+139,Caron,Noah,59113.0,26-59 ans,2023-08-19,MED-ROU,oui
+140,Rousseau,Nathan,59650.0,26-59 ans,2023-12-01,MED-ROU,oui
+141,Dubois,Sacha,59200.0,14-25 ans,2023-05-26,MED-ROU,oui
+142,Girard,Emma,,26-59 ans,2023-04-06,MED-TOU,oui
+143,Delaunay,Zoe,59100.0,Moins de 14 ans,2024-07-08,MED-TOU,non
+144,Vasseur,Jade,59113.0,60 ans et plus,2022-01-20,MED-TOU,non
+145,Lefevre,Lina,,Moins de 14 ans,2024-12-04,MED-SEC,non
+146,Picard,Camille,59000.0,Moins de 14 ans,2022-02-18,MED-ROU,non
+147,Lefevre,Hugo,59300.0,60 ans et plus,2024-04-12,MED-LIL,oui
+148,Delaunay,Jade,59493.0,60 ans et plus,2022-03-05,MED-VIL,non
+149,Lefevre,Nathan,59100.0,14-25 ans,2025-05-23,MED-LIL,oui
+150,Moreau,Lina,59200.0,Moins de 14 ans,2023-11-23,MED-LIL,oui
+151,Girard,Chloe,59493.0,26-59 ans,2022-02-20,MED-VIL,oui
+152,Mercier,Zoe,59100.0,Moins de 14 ans,2022-04-15,MED-LIL,oui
+153,Blanchard,Adam,59650.0,26-59 ans,2022-05-17,MED-TOU,oui
+154,Picard,Noah,59650.0,26-59 ans,2025-01-17,MED-ARM,non
+155,Vasseur,Chloe,59000.0,Moins de 14 ans,2022-01-19,MED-ARM,oui
+156,Vasseur,Rayan,59100.0,26-59 ans,2024-04-06,MED-SEC,oui
+157,Vasseur,Manon,59650.0,14-25 ans,2025-09-04,MED-VIL,oui
+158,Mercier,Sofia,59800.0,60 ans et plus,2023-12-23,MED-TOU,oui
+159,Colin,Louise,,Moins de 14 ans,2024-11-03,MED-ARM,non
+160,Lefevre,Camille,59493.0,Moins de 14 ans,2024-02-18,MED-TOU,oui
+161,Vasseur,Gabriel,59113.0,14-25 ans,2024-02-02,MED-LIL,oui
+162,Guerin,Nathan,59100.0,26-59 ans,2025-01-15,MED-ROU,oui
+163,Hebert,Louise,59200.0,60 ans et plus,2024-01-30,MED-ARM,oui
+164,Guerin,Gabriel,,60 ans et plus,2022-09-28,MED-SEC,oui
+165,Guerin,Ethan,,Moins de 14 ans,2025-10-07,MED-ROU,oui
+166,Vasseur,Rayan,59493.0,26-59 ans,2025-04-30,MED-LIL,non
+167,Girard,Nathan,59800.0,14-25 ans,2023-06-04,MED-SEC,non
+168,Moreau,Lina,59113.0,Moins de 14 ans,2024-07-20,MED-TOU,oui
+169,Renard,Camille,59000.0,26-59 ans,2025-04-14,MED-ARM,oui
+170,Masson,Lucas,59200.0,26-59 ans,2024-12-09,MED-TOU,oui
+171,Masson,Hugo,59100.0,14-25 ans,2023-04-03,MED-ROU,non
+172,Bonnet,Hugo,59100.0,26-59 ans,2023-03-27,MED-VIL,oui
+173,Blanchard,Ethan,59113.0,26-59 ans,2023-11-28,MED-ARM,non
+174,Vasseur,Emma,59650.0,14-25 ans,2023-06-18,MED-SEC,oui
+175,Blanchard,Lucas,59113.0,26-59 ans,2025-12-01,MED-TOU,non
+176,Dubois,Camille,59200.0,14-25 ans,2022-11-20,MED-TOU,non
+177,Bonnet,Camille,59100.0,60 ans et plus,2023-07-24,MED-ROU,non
+178,Masson,Sacha,,26-59 ans,2022-06-05,MED-ARM,oui
+179,Picard,Adam,59200.0,Moins de 14 ans,2022-03-01,MED-SEC,oui
+180,Caron,Ines,59493.0,14-25 ans,2024-12-05,MED-ARM,oui
+181,Leroy,Zoe,59200.0,inconnu,2024-05-05,MED-ARM,oui
+182,Mercier,Emma,59113.0,Moins de 14 ans,2024-04-03,MED-TOU,non
+183,Colin,Nathan,59113.0,Moins de 14 ans,2022-03-06,MED-ARM,oui
+184,Girard,Adam,59800.0,60 ans et plus,2022-08-28,MED-TOU,oui
+185,Guerin,Lucas,59000.0,Moins de 14 ans,2024-12-14,MED-LIL,oui
+186,Masson,Gabriel,59800.0,Moins de 14 ans,2024-02-01,MED-SEC,oui
+187,Vasseur,Hugo,59650.0,14-25 ans,2024-12-21,MED-SEC,oui
+188,Vasseur,Adam,59200.0,60 ans et plus,2023-12-09,MED-ROU,oui
+189,Picard,Lucas,59100.0,Moins de 14 ans,2022-05-29,MED-ROU,oui
+190,Colin,Sofia,59800.0,26-59 ans,2022-10-03,MED-TOU,oui
+191,Caron,Zoe,59493.0,14-25 ans,2022-09-08,MED-SEC,oui
+192,Masson,Ines,59493.0,Moins de 14 ans,2022-07-05,MED-ARM,oui
+193,Picard,Gabriel,59650.0,26-59 ans,2023-01-20,MED-ROU,non
+194,Girard,Gabriel,,26-59 ans,2024-08-12,MED-ROU,non
+195,Mercier,Manon,59493.0,60 ans et plus,2023-08-27,MED-ARM,non
+196,Hebert,Gabriel,59200.0,Moins de 14 ans,2022-02-09,MED-TOU,oui
+197,Lefevre,Rayan,59100.0,26-59 ans,2023-05-27,MED-LIL,oui
+198,Lefevre,Nathan,59800.0,60 ans et plus,2023-10-29,MED-SEC,non
+199,Mercier,Tom,59100.0,60 ans et plus,2023-08-27,MED-LIL,non
+200,Lambert,Ethan,59000.0,Moins de 14 ans,2025-05-13,MED-VIL,oui
+201,Colin,Nathan,59100.0,14-25 ans,2022-02-02,MED-ROU,oui
+202,Girard,Emma,59200.0,60 ans et plus,2024-10-22,MED-LIL,oui
+203,Masson,Hugo,59300.0,14-25 ans,2023-07-13,MED-TOU,oui
+204,Renard,Camille,59113.0,26-59 ans,2022-09-08,MED-ROU,non
+205,Masson,Ethan,59000.0,inconnu,2023-08-29,MED-LIL,oui
+206,Guerin,Ines,59800.0,26-59 ans,2022-10-12,MED-ROU,oui
+207,Delaunay,Zoe,59000.0,Moins de 14 ans,2023-09-23,MED-TOU,oui
+208,Renard,Noah,59493.0,60 ans et plus,2023-06-17,MED-VIL,oui
+209,Fontaine,Zoe,59200.0,Moins de 14 ans,2022-06-28,MED-LIL,oui
+210,Leroy,Tom,59800.0,Moins de 14 ans,2023-12-19,MED-TOU,oui
+211,Mercier,Lucas,59493.0,14-25 ans,2023-01-23,MED-VIL,oui
+212,Mercier,Ethan,59800.0,60 ans et plus,2022-12-30,MED-LIL,oui
+213,Hebert,Adam,59000.0,60 ans et plus,2022-10-03,MED-TOU,non
+214,Colin,Jade,59300.0,60 ans et plus,2023-10-07,MED-SEC,oui
+215,Girard,Gabriel,59300.0,14-25 ans,2022-08-04,MED-TOU,oui
+216,Hebert,Adam,59000.0,60 ans et plus,2023-12-02,MED-VIL,oui
+217,Lefevre,Lina,59113.0,14-25 ans,2023-10-11,MED-LIL,oui
+218,Blanchard,Ethan,59200.0,14-25 ans,2023-02-05,MED-VIL,oui
+219,Renard,Sacha,59493.0,14-25 ans,2022-10-28,MED-TOU,oui
+220,Delaunay,Louise,59650.0,14-25 ans,2024-03-01,MED-TOU,oui
+221,Girard,Tom,59000.0,Moins de 14 ans,2023-02-16,MED-ARM,oui
+222,Hebert,Hugo,59800.0,26-59 ans,2024-09-22,MED-TOU,oui
+223,Moreau,Sofia,59200.0,Moins de 14 ans,2022-05-02,MED-ROU,oui
+224,Picard,Lina,59800.0,inconnu,2023-07-22,MED-TOU,oui
+225,Caron,Tom,59800.0,60 ans et plus,2024-06-11,MED-TOU,oui
+226,Bonnet,Camille,59650.0,60 ans et plus,2022-06-09,MED-ARM,non
+227,Leroy,Rayan,59800.0,14-25 ans,2023-07-13,MED-TOU,oui
+228,Masson,Zoe,59800.0,60 ans et plus,2024-08-15,MED-ROU,non
+229,Fontaine,Jade,59113.0,26-59 ans,2024-05-19,MED-ROU,oui
+230,Caron,Adam,59113.0,26-59 ans,2022-03-17,MED-LIL,oui
+231,Hebert,Zoe,59650.0,Moins de 14 ans,2023-07-14,MED-SEC,oui
+232,Fontaine,Gabriel,59100.0,60 ans et plus,2022-03-07,MED-TOU,oui
+233,Leroy,Zoe,59800.0,14-25 ans,2022-02-27,MED-VIL,oui
+234,Picard,Zoe,59200.0,26-59 ans,2022-12-03,MED-LIL,oui
+235,Guerin,Nathan,59000.0,60 ans et plus,2025-01-18,MED-SEC,non
+236,Vasseur,Chloe,59300.0,26-59 ans,2025-09-02,MED-ARM,oui
+237,Picard,Chloe,59300.0,60 ans et plus,2023-07-28,MED-SEC,oui
+238,Hebert,Noah,,26-59 ans,2023-07-17,MED-TOU,oui
+239,Lambert,Lucas,59100.0,26-59 ans,2025-02-14,MED-TOU,oui
+240,Lefevre,Tom,59800.0,14-25 ans,2024-04-11,MED-ROU,oui

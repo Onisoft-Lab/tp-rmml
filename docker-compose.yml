@@ -2,17 +2,19 @@ services:
   db:
     image: postgres:16
     container_name: rmml-postgres
+    env_file:
+      - .env
     environment:
-      POSTGRES_DB: rmml
-      POSTGRES_USER: rmml
-      POSTGRES_PASSWORD: rmml
+      POSTGRES_DB: ${POSTGRES_DB:-rmml}
+      POSTGRES_USER: ${POSTGRES_USER:-rmml}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-rmml}
     ports:
-      - "5432:5432"
+      - "${POSTGRES_PORT:-5432}:5432"
     volumes:
       - rmml_pgdata:/var/lib/postgresql/data
       - ./etape04/schema.sql:/schema.sql:ro
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U rmml -d rmml"]
+      test: ["CMD-SHELL", "pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB"]
       interval: 5s
       timeout: 5s
       retries: 10
